@@ -1,0 +1,4 @@
+calcthing
+=========
+
+Simple CLI calculator
